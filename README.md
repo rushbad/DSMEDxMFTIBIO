@@ -28,9 +28,13 @@
 
 ## EXPLORATION DATA ANALYSIS
 Распределение текстов по эмоциям
+
 ![image](https://github.com/user-attachments/assets/6cb8cc65-6f2b-4799-b429-9364a920c4a3)
 
 Распределение длины текстов по символам
 ![image](https://github.com/user-attachments/assets/b3564f68-45c6-4218-a05c-ee514484a941)
 
+Распределение длины текстов по тональности
+
+![image](https://github.com/user-attachments/assets/068af01e-432f-484f-94a4-5b65741d357e)
 
