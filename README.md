@@ -44,6 +44,19 @@
 **Корреляция Пирсона:** 0.08
 Значение 0.08 указывает на очень слабую положительную линейную связь между длиной текста и эмоциями. Это означает, что практически нет линейной зависимости между этими двумя параметрами в ваших данных.
 
+## ОБЛАКА СЛОВ
+![image](https://github.com/user-attachments/assets/d054f52a-18de-40f2-9c41-7503be09b92a)
+
+![image](https://github.com/user-attachments/assets/6ce73ea8-481e-40fd-8eec-07466bf8d30a)
+
+![image](https://github.com/user-attachments/assets/83720df5-8762-4359-b4f8-0de985b74d4f)
+
+![image](https://github.com/user-attachments/assets/f93f095d-d6ee-4eb7-8768-425b18501760)
+
+![image](https://github.com/user-attachments/assets/ee34d6e9-83e8-4964-a083-a9879418e13c)
+
+![image](https://github.com/user-attachments/assets/fe41eab3-f5ab-4472-a5cd-aa19b7afd593)
+
 ## КЛАССИЧЕСКИЕ МОДЕЛИ МАШИННОГО ОБУЧЕНИЯ 
 Предобработка CountVectorizer 
 ![image](https://github.com/user-attachments/assets/71264a0b-cccd-4155-a4ca-af6533a21864)
